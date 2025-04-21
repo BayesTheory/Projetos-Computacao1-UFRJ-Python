@@ -11,12 +11,8 @@ O objetivo principal deste repositório é arquivar e apresentar os trabalhos pr
 O repositório inclui os seguintes tipos de arquivos [7]:
 
 *   `trab*.py`: Sequência de laboratórios ou trabalhos práticos da disciplina.
-*   `MT*.py`: Possivelmente arquivos relacionados a avaliações ou projetos de meio de período (Mid-Term).
 *   `jogo da memoria.py`: Implementação de um jogo da memória.
 *   `sudoku.py`: Implementação de um resolvedor ou jogo de Sudoku.
-*   Outros arquivos `.md`: Arquivos de texto com informações adicionais ou versões anteriores do README.
-
-*(Opcional: Se a estrutura for mais complexa, você pode usar o comando `tree` para gerar uma visão geral do diretório e colar aqui [7])*
 
 ## Tecnologias Utilizadas
 
